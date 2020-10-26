@@ -1,0 +1,13 @@
+
+body {font-size:18px;padding:0; margin:0; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+header {font-weight:lighter;overflow:hidden;background:black;display:block;width:90%; padding-left:5%; padding-right:5%; padding-top:10px;padding-bottom:8px;}
+#logo img {float:left;display:block; width:420px;}
+header nav ul#nav {list-style:none;float:right;}
+header nav ul#nav li {margin-left:20px; font-size:18px;list-style:none;float:left;}
+header nav ul#nav li a {list-style:none;text-transform:uppercase;color:#ffffff; text-decoration:none;}
+#about {background: url("../images/bg.jpg") no-repeat;min-height:600px;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;}
+h1, h2, h3, h4, h5, h6 {color:#a3620a}
+h1 {font-size:32px;}
+#aboutUs {display:flex; flex-direction:row;  justify-content: space-around; padding-top:55px;padding-left:5%; padding-right:5%;}
+p {line-height:28px;}
+.flex1 {display:block; width:450px; overflow:hidden;}
